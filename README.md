@@ -1,1 +1,1 @@
-# project_2
+# Logistic regression for cancer diagnosis
